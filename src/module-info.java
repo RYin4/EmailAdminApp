@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author randyyin
+ *
+ */
+module emailAdminApp {
+}
